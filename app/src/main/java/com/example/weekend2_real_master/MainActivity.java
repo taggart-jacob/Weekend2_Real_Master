@@ -3,11 +3,7 @@ package com.example.weekend2_real_master;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
-
 import android.util.Log;
-import android.view.View;
 
 import androidx.annotation.Nullable;
 import androidx.core.view.GravityCompat;
